@@ -1,0 +1,13 @@
+app/chroma_db
+app/uploads
+app/local_models
+app/__pycache__
+app/output
+app/.env
+.env
+venv
+.git
+*.pyc
+*.pyo
+frontend/node_modules
+frontend/.next
